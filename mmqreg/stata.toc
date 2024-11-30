@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p mmqreg MM (Method of Moments) Quantile regression Use mmqreg With STATA 18
