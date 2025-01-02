@@ -1,6 +1,8 @@
 # mmqreg
 MM (Method of Moments) Quantile regression Use mmqreg With STATA 18
 
+https://www.youtube.com/watch?v=ZSNTeQZF51Q
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
